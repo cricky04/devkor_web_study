@@ -1,0 +1,50 @@
+.profile /*class */
+{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin:5px;
+    font: bold;
+    font-style: italic;
+    font-size: 20px;
+}
+.customBox
+{
+    width: 10vw;
+    height: 10vh;
+    background-color: aquamarine;
+    margin: 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: burlywood;
+    border-radius: 25%;
+    display:inline-block;
+}
+.left-box
+{
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+    float: left;
+}
+.right-box
+{
+    width: 10px;
+    height: 100px;
+    background-color: coral;
+    float: right;
+}
+#special /*id */
+{
+    font-size: 25px;
+}
+p
+{
+    font-style: italic;
+    font-size: 20px;
+}
+.footer
+{
+    clear: both;
+    float: none;
+}
