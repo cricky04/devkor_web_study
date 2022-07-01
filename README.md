@@ -1,2 +1,2 @@
 # devkor_web_study
-waa
+It is web study repository
