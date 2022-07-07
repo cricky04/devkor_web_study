@@ -1,0 +1,29 @@
+.postBox
+{
+    width: 90vw;
+    height: 25vw;
+    border: 0.5vw solid;
+    border-color: white;
+    margin: 3vw;
+}
+
+.profileBox
+{
+    width: 65vw;
+    height: 7vw;
+    display: inline-block;
+    line-height: 20%;
+}
+.thumbnail
+{
+    width: 25vw;
+    height: 25vw;
+    background-color: chocolate;
+    float: right;
+}
+.textbox
+{
+    width:65vw;
+    height: 18vw;
+    line-height: 100%;
+}
