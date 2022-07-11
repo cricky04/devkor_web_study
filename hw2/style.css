@@ -1,0 +1,59 @@
+.backgroundBox
+{
+    width: 95vw;
+    height: 98vh;
+    border: 1vh;
+    margin: auto;
+}
+.pictureBox
+{
+    width: 32vw;
+    height: 98vh;
+    background-color: wheat;
+    display: inline-block;
+}
+.detailBox
+{
+    width: 62vw;
+    height: 98vh;
+    background-color: gray;
+    display: inline-flex;
+    float: right;
+}
+.photoBox
+{
+    width: 30vw;
+    height: 30vw;
+    background-color: wheat;
+    margin: 1vw 0.5vw 0.5vw 1vw;
+}
+.summaryBox
+{
+    width:30vw;
+    height:calc(98vh - 33vw);
+    margin: auto;
+    font-size: 30px;
+    text-align: center;
+}
+.contentsBox
+{
+    width: 20vw;
+    height: 94vh;
+    background-color: burlywood;
+    margin: 1vw 0.5vw 1vw 0.5vw;
+    text-align: center;
+}
+.contentsImgBox
+{
+    width: 18vw;
+    height: 18vw;
+    margin: 0.5vw;
+}
+.contentsTextBox
+{
+    width: 18vw;
+    height: auto;
+    background-color: antiquewhite;
+    font-size: 18px;
+    margin: auto;
+}
