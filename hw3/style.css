@@ -1,0 +1,14 @@
+.tempBox
+{
+    width: 95vw;
+    height: 95vh;
+}
+.contentsBox
+{
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    background-color: beige;
+    display: inline-block;
+    border: 2px;
+}
