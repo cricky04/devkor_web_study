@@ -1,0 +1,28 @@
+.AnsWordBox
+{
+    width: 30vw;
+    height: 10vh;
+    text-align: center;
+    font-size: 32px;
+    color: greenyellow;
+    background-color: navy;
+}
+
+.UsedWordBox
+{
+    width: 50vw;
+    height: 10vh;
+    text-align: center;
+    background-color: rgb(24, 24, 24);
+    color: red;
+    font-size: 32px;
+}
+.LifeBox
+{
+    width: 20vw;
+    height: 10vh;
+    text-align: center;
+    background-color: pink;
+    font-size: 32px;
+
+}
